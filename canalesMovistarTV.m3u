@@ -122,4 +122,4 @@ rtp://@239.0.0.39:8208
 #EXTINF:-1,[105] VH1
 rtp://@239.0.0.75:8208
 #EXTINF:-1,[106] BUZZ
-rtmp://live.streamingplus.mobi:1935/live/
+rtmpe://178.18.30.104/live
