@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[010] SERIES
-rtp://@239.0.3.32:8208
+#EXTINF:-1,[010] beIN La Liga
+rtp://@239.0.0.46:8208
 #EXTINF:-1,[013] FOX
 rtp://@239.0.0.74:8208
 #EXTINF:-1,[014] AXN
@@ -33,8 +33,6 @@ rtp://@239.0.0.107:8208
 rtp://@239.0.3.29:8208
 #EXTINF:-1,[028] Energy
 rtp://@239.0.0.59:8208
-#EXTINF:-1,[030] CINE
-rtp://@239.0.3.30:8208
 #EXTINF:-1,[037] TCM
 rtp://@239.0.6.5:8208
 #EXTINF:-1,[038] Hollywood
@@ -193,5 +191,3 @@ rtp://@239.0.3.106:8208
 rtp://@239.0.3.107:8208
 #EXTINF:-1,[191] beIN MAX 8
 rtp://@239.0.3.108:8208
-#EXTINF:-1,[200] La Tienda en Casa
-rtp://@239.0.0.98:8208
