@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,[010] beIN La Liga
 rtp://@239.0.0.46:8208
 #EXTINF:-1,[013] FOX
@@ -33,6 +32,10 @@ rtp://@239.0.0.107:8208
 rtp://@239.0.3.29:8208
 #EXTINF:-1,[028] Energy
 rtp://@239.0.0.59:8208
+#EXTINF:-1,[029] Movistar eSports
+rtp://@239.0.3.30:8208
+#EXTINF:-1,[030] Movistar Disney Princess
+rtp://@239.0.1.188:8208
 #EXTINF:-1,[037] TCM
 rtp://@239.0.6.5:8208
 #EXTINF:-1,[038] Hollywood
@@ -91,7 +94,7 @@ rtp://@239.0.0.20:8208
 rtp://@239.0.0.32:8208
 #EXTINF:-1,[078] Crimen e Investigación
 rtp://@239.0.0.57:8208
-#EXTINF:-1,[079] CCTV-E
+#EXTINF:-1,[079] CGTN Español
 rtp://@239.0.0.65:8208
 #EXTINF:-1,[080] Cocina
 rtp://@239.0.0.27:8208
@@ -129,8 +132,6 @@ rtp://@239.0.0.64:8208
 rtp://@239.0.0.66:8208
 #EXTINF:-1,[098] Clan TVE
 rtp://@239.0.0.80:8208
-#EXTINF:-1,[103] Los 40
-rtp://@239.0.0.12:8208
 #EXTINF:-1,[105] VH1
 rtp://@239.0.0.75:8208
 #EXTINF:-1,[112] Canal 24 Horas
@@ -169,6 +170,8 @@ rtp://@239.0.0.213:8208
 rtp://@239.0.0.1:8208
 #EXTINF:-1,[151] Galicia TV Europa
 rtp://@239.0.3.37:8208
+#EXTINF:-1,[152] Canal Extremadura SAT
+rtp://@239.0.0.52:8208
 #EXTINF:-1,[153] TV3CAT 
 rtp://@239.0.3.36:8208
 #EXTINF:-1,[154] ETB Sat
@@ -191,3 +194,5 @@ rtp://@239.0.3.106:8208
 rtp://@239.0.3.107:8208
 #EXTINF:-1,[191] beIN MAX 8
 rtp://@239.0.3.108:8208
+#EXTINF:-1,[200] La Tienda en Casa
+rtp://@239.0.0.98:8208
